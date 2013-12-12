@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestPushNotification</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="your_ticker">your_ticker</string>
+    <string name="your_notif_title">your_notif_title</string>
+    
+    <string name="your_notif_text">your_notif_text</string>
+    
+    
+    
+    
+
+</resources>
